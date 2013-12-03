@@ -67,4 +67,4 @@ See Also
   * [How to randomize/shuffle a JavaScript array](http://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array)
   * [Fisher-Yates Shuffle on Wikipedia](http://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle)
   * [Doing the Microsoft Shuffle: Algorithm Fail in Browser Ballot](http://www.robweir.com/blog/2010/02/microsoft-random-browser-ballot.html)
-  * [knuth-shuffle on NPM](https://npmjs.org/package/citare-scriptum)
+  * [knuth-shuffle on NPM](https://npmjs.org/package/knuth-shuffle)

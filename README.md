@@ -33,7 +33,7 @@ Browser Example
   // The shuffle modifies the original array
   // calling a.slice(0) creates a copy, which is assigned to b
   b = window.knuthShuffle(a.slice(0));
-  console.log();
+  console.log(b);
 });
 ```
 
@@ -56,7 +56,7 @@ npm install -S knuth-shuffle
   // The shuffle modifies the original array
   // calling a.slice(0) creates a copy, which is assigned to b
   b = shuffle(a.slice(0));
-  console.log();
+  console.log(b);
 });
 ```
 

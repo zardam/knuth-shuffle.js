@@ -19,7 +19,7 @@ Browser Example
 ===
 
 ```html
-<script src="./knuth-shuffle.js"></script>
+<script src="https://raw.github.com/coolaj86/knuth-shuffle/master/index.js"></script>
 ```
 
 ```javascript

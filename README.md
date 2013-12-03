@@ -34,7 +34,7 @@ Browser Example
   // calling a.slice(0) creates a copy, which is assigned to b
   b = window.knuthShuffle(a.slice(0));
   console.log(b);
-});
+}());
 ```
 
 Node Example
@@ -57,7 +57,7 @@ npm install -S knuth-shuffle
   // calling a.slice(0) creates a copy, which is assigned to b
   b = shuffle(a.slice(0));
   console.log(b);
-});
+}());
 ```
 
 See Also

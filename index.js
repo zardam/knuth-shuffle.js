@@ -26,4 +26,4 @@
   }
 
   exports.knuthShuffle = shuffle;
-}('undefined' !== typeof exports && exports || new Function('return this')()));
+}('undefined' !== typeof exports && exports || 'undefined' !== typeof window && window || global));

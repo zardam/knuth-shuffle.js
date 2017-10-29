@@ -3,12 +3,13 @@
   "version": "1.0.5",
   "description": "The Fisher-Yates (aka Knuth) shuffle for Browser and Node.js",
   "main": "index.js",
+  "homepage": "https://git.coolaj86.com/coolaj86/knuth-shuffle",
   "scripts": {
     "test": "node example.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://git.coolaj86.com/coolaj86/knuth-shuffle"
+    "url": "git://git.coolaj86.com:coolaj86/knuth-shuffle.git"
   },
   "keywords": [
     "ronald",

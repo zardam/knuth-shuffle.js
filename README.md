@@ -47,8 +47,16 @@ Browser Example
 Node Example
 ===
 
+Decentralized Install
+
 ```bash
-npm install --save knuth-shuffle
+npm install --save git+https://git.coolaj86.com/coolaj86/knuth-shuffle.js.git#v1.0
+```
+
+Centralized Install
+
+```bash
+npm install --save knuth-shuffle@1.0
 ```
 
 ```javascript

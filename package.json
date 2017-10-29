@@ -1,6 +1,6 @@
 {
   "name": "knuth-shuffle",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "The Fisher-Yates (aka Knuth) shuffle for Browser and Node.js",
   "main": "index.js",
   "scripts": {

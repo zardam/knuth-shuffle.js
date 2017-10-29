@@ -1,18 +1,3 @@
-<!-- BANNER_TPL_BEGIN -->
-
-About Daplie: We're taking back the Internet!
---------------
-
-Down with Google, Apple, and Facebook!
-
-We're re-decentralizing the web and making it read-write again - one home cloud system at a time.
-
-Tired of serving the Empire? Come join the Rebel Alliance:
-
-<a href="mailto:jobs@daplie.com">jobs@daplie.com</a> | [Invest in Daplie on Wefunder](https://daplie.com/invest/) | [Pre-order Cloud](https://daplie.com/preorder/), The World's First Home Server for Everyone
-
-<!-- BANNER_TPL_END -->
-
 knuth-shuffle
 =============
 
@@ -49,9 +34,8 @@ Browser Example
 (function () {
   'use strict';
 
-  var a = [2,11,37,42]
-    , b
-    ;
+  var a = [2,11,37,42];
+  var b;
 
   // The shuffle modifies the original array
   // calling a.slice(0) creates a copy, which is assigned to b
@@ -64,17 +48,16 @@ Node Example
 ===
 
 ```bash
-npm install -S knuth-shuffle
+npm install --save knuth-shuffle
 ```
 
 ```javascript
 (function () {
   'use strict';
 
-  var shuffle = require('knuth-shuffle').knuthShuffle
-    , a = [2,11,37,42]
-    , b
-    ;
+  var shuffle = require('knuth-shuffle').knuthShuffle;
+  var a = [2,11,37,42];
+  var b;
 
   // The shuffle modifies the original array
   // calling a.slice(0) creates a copy, which is assigned to b

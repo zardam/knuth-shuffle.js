@@ -1,6 +1,6 @@
 {
   "name": "knuth-shuffle",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "The Fisher-Yates (aka Knuth) shuffle for Browser and Node.js",
   "main": "index.js",
   "homepage": "https://git.coolaj86.com/coolaj86/knuth-shuffle",
